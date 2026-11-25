@@ -1,0 +1,1 @@
+{"description":"Estudio móvil para mini series: biblia, personajes, episodios, escenas y prompts, con texto por Gemini y voz por ElevenLabs.","engines":{"node":">=20"},"name":"estudio-ia","private":true,"scripts":{"start":"node server.mjs"},"type":"module","version":"1.0.0"}
